@@ -15,3 +15,5 @@
 local.properties
 python-backend/productscanner.json
 python-backend/productscanner.json
+python-backend/productscanner.json
+.venv/
