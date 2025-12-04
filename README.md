@@ -46,3 +46,5 @@ ProductScanner - Android-приложение для сканирования QR
 
 Рекомендательная система
 - Формирование рекомендаций с использованием TF-IDF векторизации и косинусной близости.
+
+<img width="773" height="630" alt="image" src="https://github.com/user-attachments/assets/a6825354-4161-4709-b8d3-3a60c0b2f301" />
