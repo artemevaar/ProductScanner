@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516068992577",
+    "project_id": "productscanner-3582f",
+    "storage_bucket": "productscanner-3582f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516068992577:android:dd727f34799da6362508c0",
+        "android_client_info": {
+          "package_name": "com.example.productscanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUd00SV7I0Powqh4DSIzNYnpsxwAtlJYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

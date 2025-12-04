@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProductScanner</string>
+    <string name="logo"> Ваш надежный помошник в анализе составов продуков </string>
+
+    <string name="ingredients_prompt">
+    Проанализируй состав продукта как специалист по оценке качества продукта питания и распиши каждый ингредиент на русском языке через дефис с пояснением его роли в составе, возможной пользой или вредом, а также укажи, какие компоненты могут быть аллергенами.
+    Также указывай, если есть какой компонент из состава, который может быть скрытым заменителем чего-нибудь: %1$s
+    </string>
+
+    <string name="bot_api_key">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjgyYjhhOGYxLTMyOTYtNDczNi1iMzhiLTBmNGNiZWUzNzBhYSIsImlzRGV2ZWxvcGVyIjp0cnVlLCJpYXQiOjE3MzUwNTU1NzQsImV4cCI6MjA1MDYzMTU3NH0.3lCg6dx3r_AtzBIBBLmL5TfNgVbSN92x3YVup0-sfdw</string>
+
+</resources>
